@@ -1,5 +1,28 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+
+
+h1, nav{
+  text-align: center;
+  color: blue;
+}
+
+#featured-property{
+  text-align: center;
+  margin: 0 auto;
+  width: 800px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+  
+
+section#details {
+  display: flex;
+  justify-content: space-between;
+  background-color: peru;
+  padding: 20px;
 }
